@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    <Basti> -- <role> -- <twitter>
 
 # THANKS
 
