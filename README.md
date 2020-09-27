@@ -3,6 +3,9 @@ This is a simple website project for This repository is for showing how Git and 
 
 ## Introdruction
 
+This example is to show differnt parts of the Git 
+repository and various commands using a web project.
+
 ## Purpose
 
 ## Deployment
