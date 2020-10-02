@@ -5,6 +5,10 @@ This is a simple website project for This repository is for showing how Git and 
 
 ## Purpose
 
+As stated above, the main purpose is
+
 ## Deployment
+
+right in development
 
 Sample website with plenty of files for demos
