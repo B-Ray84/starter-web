@@ -8,6 +8,11 @@ repository and various commands using a web project.
 
 ## Purpose
 
+A simple project for learning
+
 ## Deployment
 
 Sample website with plenty of files for demos
+
+# Useful links
+lalalala
