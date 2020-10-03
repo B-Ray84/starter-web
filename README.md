@@ -18,3 +18,7 @@ Sample website with plenty of files for demos
 
 # Useful links
 lalalala
+
+### Copyright
+
+2020 Git Training
