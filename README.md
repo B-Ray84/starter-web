@@ -8,9 +8,15 @@ repository and various commands using a web project.
 
 ## Purpose
 
+<<<<<<< HEAD
 A simple project for learning
+=======
+As stated above, the main purpose is
+>>>>>>> 835162acaece8d5af4176cb8568f86540227bd4b
 
 ## Deployment
+
+right in development
 
 Sample website with plenty of files for demos
 
