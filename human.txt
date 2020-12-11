@@ -1,6 +1,0 @@
-# humanstxt.org
-# The humans responsible & technology colophon
-
-# Team
-
-	Basti Ray bastian.raymann@gmail.com
