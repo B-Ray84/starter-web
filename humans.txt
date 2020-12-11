@@ -1,2 +1,16 @@
-# Humantxt.org
-# Technoligy
+# Humanstxt.org
+# The humans responsible & technology colophon
+
+# Team
+
+	Basti Ray bastian.raymann@gmail.com
+	
+# THANKS
+
+    <name>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+
