@@ -25,4 +25,4 @@ lalalala
 
 ### Copyright
 
-2020 Git Training Copyright
+2020 Git Training Copyright. all riht reserved
