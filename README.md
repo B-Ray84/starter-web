@@ -1,5 +1,5 @@
 # Starter Web Project
-This is a simple website project for This repository is for showing how Git and GitHub togehther. Ddding a line for rebasing, then more changes.
+This is a simple website project for This repository is for showing how Git and GitHub togehther. Updateing some text
 
 ## Introdruction
 
